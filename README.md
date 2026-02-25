@@ -4,7 +4,7 @@ Global e-commerce sales and profitability analysis using advanced SQL and busine
 amazon-ecommerce-sql-analysis/
 │
 ├── data/
-│   └── ecommerce_data.xlsx
+│   └── ECOMM_DATA.xlsx
 │
 ├── schema.sql
 ├── data_cleaning.sql
