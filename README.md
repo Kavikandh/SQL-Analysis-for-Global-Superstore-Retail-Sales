@@ -1,5 +1,5 @@
-# SQL-Analysis-for-Global-Superstore
-Global e-commerce sales and profitability analysis using advanced SQL and business-driven insights.
+# # Global Superstore Sales & Profitability Analysis (SQL + Power BI)
+Global e-commerce sales and profitability analysis using advanced SQL, Power BI and business-driven insights.
 
 Global-Superstore-sql-analysis/
 │
