@@ -1,18 +1,22 @@
-# # Global Superstore Sales & Profitability Analysis (SQL + Power BI)
-Global e-commerce sales and profitability analysis using advanced SQL, Power BI and business-driven insights.
-
-Global-Superstore-sql-analysis/
+SQL-Analysis-for-Global-Superstore/
 │
 ├── data/
 │   └── ECOMM_DATASET.xlsx
-│        └── EComm_Orders.csv
-│        └── EComm_People.csv
+│        ├── EComm_Orders.csv
+│        ├── EComm_People.csv
 │        └── EComm_Returns.csv
+│
+├── powerbi-dashboard/
+│   ├── Global-Superstore-Sales-Analysis.pbix
+│   └── dashboard-images/
+│       ├── executive-overview.png![Executive Overview](powerbi-dashboard/dashboard-images/executive-overview.png)
+│       ├── returns-analysis.png
+│       └── growth-analysis.png
 │
 ├── schema.sql
 ├── data_cleaning.sql
 ├── analysis_queries.sql
-    └── kpi_analysis.sql
-    └── advanced_analysis.sql  
+│   ├── kpi_analysis.sql
+│   └── advanced_analysis.sql
 ├── insights.md
 └── README.md
