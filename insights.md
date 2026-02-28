@@ -38,3 +38,11 @@ While Central region (Anna Andreadi) delivers the highest total profit, certain 
 
 Recommendation:
 Investigate operational and pricing strategies in low-margin regions to improve profitability.
+
+## Power BI Strategic Insights
+
+• Revenue grew consistently from 2011–2014
+• Consumer segment drives majority of sales
+• Technology category yields highest margin
+• Returns negatively impact profitability
+• APAC is the highest revenue-generating market
