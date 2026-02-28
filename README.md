@@ -68,6 +68,13 @@ SQL-Analysis-for-Global-Superstore/
 ├── insights.md
 └── README.md
 
+## Strategic Recommendations
+
+- Implement stricter discount control policies
+- Re-evaluate pricing strategy for low-margin categories
+- Optimize cost structure in underperforming regions
+- Monitor high-return product categories more closely
+
 ## How to Run This Project
 
 1. Run schema.sql to create tables
